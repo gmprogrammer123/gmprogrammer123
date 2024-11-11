@@ -1,16 +1,31 @@
-## Hi there 👋
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with over **10 years of experience**, specializing in **Web Development**, **Mobile App Development**, and **Blockchain Technologies**. I’m passionate about building scalable, high-performance applications and exploring new innovations in tech.
 
-<!--
-**gmprogrammer123/gmprogrammer123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies & Tools
 
-Here are some ideas to get you started:
+### **Languages & Frameworks:**
+- **JavaScript/TypeScript**, **PHP**, **Python**
+- **Web**: React.js, Node.js, Vue.js, Angular, Express.js
+- **Mobile**: React Native, Flutter, Ionic, PhoneGap
+- **Blockchain**: Ethereum, Solidity, Web3.js, IPFS, Truffle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend & Databases:**
+- **Backend**: Node.js, Laravel, Express.js, Django
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase, SQLite
+
+### **Tools & Platforms:**
+- **Version Control**: Git, GitHub, GitLab
+- **Cloud Platforms**: AWS, Heroku, Firebase
+- **Containerization**: Docker
+- **DevOps & CI/CD**: GitHub Actions, Jenkins
+
+### **Design & Testing:**
+- **UI/UX**: Figma, Sketch, Material-UI
+- **Testing**: Jest, Mocha, Cypress, PHPUnit, Postman
+
+---
+
+## 💬 Fun Fact
+
+In my spare time, I enjoy contributing to open-source projects, exploring new **blockchain** protocols, and staying updated on the latest trends in **full-stack development**.
+
+---
