@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with over **10 year
 - **Web**: React.js, Node.js, Vue.js, Angular, Express.js
 - **Mobile**: React Native, Flutter, Ionic, PhoneGap
 - **Blockchain**: Ethereum, Solidity, Web3.js, IPFS, Truffle
+- **AI & Machine Learning**: TensorFlow, Keras, PyTorch, OpenAI APIs, NLP, Computer Vision, Reinforcement Learning, Data Preprocessing
 
 ### **Backend & Databases:**
 - **Backend**: Node.js, Laravel, Express.js, Django
